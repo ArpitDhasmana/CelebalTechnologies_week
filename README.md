@@ -1,6 +1,4 @@
-👉 **[Live App Link](https://celebaltechnologiesweek7.streamlit.app/)**
 
----
 
 # 🔬 Breast Cancer Detection with Machine Learning
 
